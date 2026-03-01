@@ -1,0 +1,14 @@
+[
+    {
+        "id": "pll1",
+        "name": "Aa",
+        "image": "/images/pll/Aa.png",
+        "algorithm": "x L2 D2 L' U' L D2 L' U L'"
+    },
+    {
+        "id": "pll2",
+        "name": "Ab",
+        "image": "/images/pll/Ab.png",
+        "algorithm": "x' L2 D2 L U L' D2 L U' L"
+    }
+]
